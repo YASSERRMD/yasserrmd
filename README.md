@@ -39,6 +39,17 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### Frameworks & Libraries Mastery
+
+![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LLLamaIndex](https://img.shields.io/badge/-LLLamaIndex-FFD700?style=flat-square&logo=lllamaindex&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+
 
 
 
