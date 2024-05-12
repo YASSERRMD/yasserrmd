@@ -6,9 +6,8 @@
 - **Location**: Sharjah Emirate, United Arab Emirates
 - **Experience**: Over 17 years in software solutions architecture, specializing in government projects with a focus on emerging technologies such as blockchain and AI.
 
-### 🚀 Mastering Code: A Spectrum of Programming Languages
 
-### 🚀 Mastering Code: A Spectrum of Programming Languages
+### Mastering Code: A Spectrum of Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
@@ -24,6 +23,12 @@
 ![XML](https://img.shields.io/badge/-XML-F05032?style=flat-square&logo=xml&logoColor=white)
 ![XSLT](https://img.shields.io/badge/-XSLT-F05032?style=flat-square&logo=xslt&logoColor=white)
 
+### Data Formats Mastery
+
+![XML](https://img.shields.io/badge/-XML-F05032?style=flat-square&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=flat-square&logo=yaml&logoColor=white)
+![CSV](https://img.shields.io/badge/-CSV-237346?style=flat-square&logo=csv&logoColor=white)
 
 
 
