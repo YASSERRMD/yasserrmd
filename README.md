@@ -30,6 +30,16 @@
 ![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=flat-square&logo=yaml&logoColor=white)
 ![CSV](https://img.shields.io/badge/-CSV-237346?style=flat-square&logo=csv&logoColor=white)
 
+### Database Mastery
+
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+
 
 
 
