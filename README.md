@@ -2,9 +2,9 @@
 
 
 ## 🌐 Professional Summary
-- **Current Role**: Government Solution Architect at Sharjah City Municipality
+- **Current Role**: Solution Architect at Sharjah City Municipality
 - **Location**: Sharjah Emirate, United Arab Emirates
-- **Experience**: Over 17 years in software solutions architecture, specializing in government projects with a focus on emerging technologies such as blockchain and AI.
+- **Experience**: Over 19 years in software solutions architecture, specializing in government projects with a focus on emerging technologies such as blockchain and AI.
 
 ![Career Journey](career-journey-timeline.png)
 
