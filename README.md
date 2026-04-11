@@ -112,8 +112,12 @@ Actively involved in mentoring, open-source work, and technology communities acr
 ## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YASSERRMD&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&title_color=e2e8f0&text_color=94a3b8&icon_color=cbd5e1&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASSERRMD&layout=compact&hide_border=true&title_color=e2e8f0&text_color=94a3b8&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YASSERRMD&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASSERRMD&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASSERRMD&theme=github_dark" />
 </p>
 
 ## Philosophy
