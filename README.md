@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=YASSERRMD&style=flat-square&color=334155" />
   <img src="https://img.shields.io/github/followers/YASSERRMD?style=flat-square&color=334155" />
   <img src="https://img.shields.io/github/stars/YASSERRMD?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=334155" />
-  
+  <img src="https://user-badge.committers.top/uae/YASSERRMD.svg" />
 </p>
 
-## About Me [![committers.top badge](https://user-badge.committers.top/uae/YASSERRMD.svg)](https://user-badge.committers.top/uae/YASSERRMD)
+## About Me 
 
 Solution Architect at Sharjah City Municipality with 19+ years of experience designing and delivering large-scale software solutions for government environments.
 
